@@ -19,7 +19,7 @@ I'm Swagat Raj a Full Stack Web Developer and wannabe andriod developer. I Spend
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![HTML Badge](https://img.shields.io/badge/-HTML-FFA500?style=for-the-badge&labelColor=black&logo=html&logoColor=F0DB4F)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-add8e6?style=for-the-badge&labelColor=black&logo=html&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![HTML Badge](https://img.shields.io/badge/-HTML-FFA500?style=for-the-badge&labelColor=black&logo=html&logoColor=F0DB4F)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-add8e6?style=for-the-badge&labelColor=black&logo=html&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![CMD Badge](https://img.shields.io/badge/-CMD-000000?style=for-the-badge&labelColor=black&logo=html&logoColor=F0DB4F)](#)
 
 
 <br />
