@@ -10,7 +10,7 @@ I'm Swagat Raj a Web Developer and wannabe andriod developer. I Spend most of ti
 
 <!-- TODO: Add last video link -->
 
- I am a first year undergraduate student of Electrical Engineering Department of NIT Rourkela
+ I am a second year undergraduate student of Electrical Engineering Department of NIT Rourkela
   
 - 🔭 I’m currently working on learning and growing my skills on UI/UX Design, Web Dev and AOSP Development
 - 🌱 I’m currently learning **somthing**
