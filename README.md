@@ -4,7 +4,7 @@ I'm Swagat Raj a Web Developer and wannabe andriod developer. I Spend most of ti
 
 <img align="right" height="500px" alt="IMG" src="WhatsApp Image 2021-08-05 at 3.03.12 AM.jpeg" padding="5px" />
 
-https://swagatraj.live
+www.swagatraj.live
 
 :mailbox: Reach me out!
 
