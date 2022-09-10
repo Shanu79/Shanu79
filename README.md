@@ -6,34 +6,42 @@ I'm Swagat Raj a Web Developer and wannabe andriod developer. I Spend most of ti
 
 https://swagatraj.me
 
-:mailbox: Reach me out!
+:mailbox: Reach me out!<br/>
+shanu.r9971@gmail.com
+<p>
+<a href="https://www.linkedin.com/in/swagat-raj-8924691b7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://twitter.com/aratakasuga_79" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://instagram.com/_s.h.i.n_7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
-[![linkein Badge](https://img.shields.io/badge/-SwagatRaj-e74c3c?style=flat&labelColor=e74c3c&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swagat-raj-8924691b7) [![Twitter Badge](https://img.shields.io/badge/-@shanu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/aratakasuga_79) [![insta Badge](https://img.shields.io/badge/-@_shanu.1000_7-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_shanu.1000_7) [![Mail Badge](https://img.shields.io/badge/-shanu.r9971-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shanu.r9971@gmail.com)
+Currently a pre-final student of Electrical Engineering at NIT Rourkela. 
 
-<!-- TODO: Add last video link -->
-
- I am a second year undergraduate student of Electrical Engineering Department of NIT Rourkela
-  
 - 🔭 I’m currently working on learning and growing my skills on UI/UX Design, Web Dev and AOSP Development
 - 🌱 I’m currently learning **somthing**
 - 👯 I’m looking to collaborate on Web Development and UI/UX
-- 😀 See my Works here: I'am working on that right now😅
+- 😀 See my Works here: I'am working on that right now😅.com)
 
-#### Top Technologies
+### Skills
 
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![HTML Badge](https://img.shields.io/badge/-HTML-FFA500?style=for-the-badge&labelColor=black&logo=html&logoColor=F0DB4F)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-add8e6?style=for-the-badge&labelColor=black&logo=html&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  
-
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ishanu79.shanu79)
-
-
-#### Github Stats
-
-![Swagat's github stats](https://github-readme-stats.vercel.app/api?username=shanu79&hide=contribs,prs&theme=dracula)
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 
 
+### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="https://github.com/shanu79" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanu79&langs_count=10&title_color=ffede9&text_color=ffede9&icon_color=ffede9&bg_color=3a0a04&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/shanu79"><img src="https://github-readme-stats.vercel.app/api?username=shanu79&show_icons=true&hide=&count_private=true&title_color=ffb4a6&text_color=ffede9&icon_color=ffb4a6&bg_color=561e14&hide_border=true&show_icons=true" alt="Shanu79's GitHub stats" /></a>
+
+<a href="http://www.github.com/shanu79"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shanu79&stroke=ffede9&background=733428&ring=ffb4a6&fire=ffb4a6&currStreakNum=ffede9&currStreakLabel=ffb4a6&sideNums=ffede9&sideLabels=ffede9&dates=ffede9&hide_border=true" /></a>
+
+<a href="http://www.github.com/shanu79"><img src="https://activity-graph.herokuapp.com/graph?username=shanu79&bg_color=904b3e&color=ffede9&line=ffb4a6&point=ffede9&area_color=ffb4a6&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph&title_color=fff" alt="GitHub Commits Graph" /></a>
