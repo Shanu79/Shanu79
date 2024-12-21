@@ -2,7 +2,6 @@
 
 I'm Swagat Raj a Web Developer. I Spend most of time coding outstanding projects :zap: or sleeping :sleepy:.
 
-<img align="right" height="500px" alt="IMG" src="WhatsApp Image 2021-08-05 at 3.03.12 AM.jpeg" padding="5px" />
 
 https://swagatraj.me
 
